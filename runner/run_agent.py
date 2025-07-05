@@ -12,7 +12,7 @@ def run_cli():
         if user_input.lower() == "exit":
             print("👋 Goodbye.")
             break
-        print(f"Omni (simulated): I hear you said '{user_input}'. I am reasoning offline.")
+        print(f"Butler (simulated): I hear you said '{user_input}'. I am reasoning offline.")
 
 if __name__ == "__main__":
     run_cli()
