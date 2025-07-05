@@ -64,7 +64,7 @@ This is a fully offline demo of an AI assistant called **Butler**, powered by St
 
 ## 🚀 How to Run
 
-1. Unzip the project.
+1. clone the project.
 2. Make the boot script executable:
    ```bash
    chmod +x boot.sh
